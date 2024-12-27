@@ -42,13 +42,13 @@ Esta vez, **CSS** fue omitido para generar todos los estilos en **React** y **Bo
 /evaluacion-m4-ej-2
 │
 ├── src/                   
-│   ├── assets/              <-- Para recursos estáticos
+│   ├── assets/             
 │   ├── components/ 
 │   │   ├── AppointmentForm.jsx
 │   │   ├── DoctorCard.jsx
 │   │   └── ServiceList.jsx
-│   ├── App.jsx              <-- Componente principal
-│   ├── main.jsx             <-- Punto de entrada de React
+│   ├── App.jsx              
+│   ├── main.jsx          
 │
 ├── node_modules/        
 ├── .gitignore               
